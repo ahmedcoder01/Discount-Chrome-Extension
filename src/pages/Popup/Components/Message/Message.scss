@@ -1,0 +1,12 @@
+.message {
+  color: var(--dark-blue);
+  text-align: center;
+
+  span {
+    font-weight: bold;
+  }
+
+  &.error {
+    color: #f44336;
+  }
+}

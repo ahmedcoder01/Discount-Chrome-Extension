@@ -1,0 +1,9 @@
+:root {
+  --dark-blue: #1d2d44;
+  --bg: #ffffff;
+  --sky-blue: #8ecaf7;
+  --blue: #0176d0;
+}
+.body-wrapper {
+  padding: 24px;
+}
